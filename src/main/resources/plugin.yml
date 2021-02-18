@@ -1,0 +1,13 @@
+name: MoreEnchants
+version: ${project.version}
+main: ghostboi.moreenchants.MoreEnchants
+api-version: 1.16
+prefix: MoreEnchants
+load: STARTUP
+authors: [ Ghost_Boi ]
+description: Adds vanilla style enchants to the game
+
+commands:
+  Telepathy:
+    description: Gives diamond pickaxe with telepathy enchantment
+  Autosmelt:
